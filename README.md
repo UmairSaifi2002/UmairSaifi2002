@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmairSaifi2002
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Scource Project
 - 📫 How to reach me 
 - 😄 Pronouns: ...
